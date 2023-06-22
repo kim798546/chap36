@@ -17,6 +17,7 @@
 </head>
 <body>
 <h1>Home Page</h1>
+<h4>일부로 충돌일으킴</h4>
 <hr>
 <sec:authorize access="isAuthenticated()">
 	name = <sec:authentication property="name"/>
