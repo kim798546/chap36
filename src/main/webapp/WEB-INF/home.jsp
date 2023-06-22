@@ -20,6 +20,7 @@
 <h4>충동 테스트 remote보다 한 단계 낮음</h4>
 <h3>충돌테스트 재시도</h3>
 <h3>git revert test</h3>
+<span>충동 테스트 3번째 시도</span>
 <hr>
 <sec:authorize access="isAuthenticated()">
 	name = <sec:authentication property="name"/>
